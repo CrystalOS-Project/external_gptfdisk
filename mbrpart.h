@@ -112,5 +112,4 @@ public:
 }; // MBRPart
 
 #pragma pack(pop)
-
 #endif // MBRPART_H

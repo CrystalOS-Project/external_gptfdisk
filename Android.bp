@@ -1,5 +1,6 @@
 cc_defaults {
     name: "sgdisk_defaults",
+    host_supported: true,
 
     srcs: [
         "sgdisk.cc",

@@ -93,5 +93,4 @@ class BSDData {
 #pragma pack ()
 
 #pragma pack(pop)
-
 #endif

@@ -153,5 +153,4 @@ public:
 }; // class BasicMBRData
 
 #pragma pack(pop)
-
 #endif

@@ -215,5 +215,4 @@ public:
 int SizesOK(void);
 
 #pragma pack(pop)
-
 #endif
